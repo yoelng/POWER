@@ -1,0 +1,28 @@
+#power{
+    background-image: url(img/light.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+nav{
+    background-color: white;
+    padding-left: 200px;
+    
+}
+a{
+    padding: 20px;
+}
+#nav{
+    background-color: grey;
+    padding-left: 500px;
+}
+#fast{
+    padding-top: 50vh;
+}
+h1,h6{
+    color:blue
+}
+label{
+    padding: 10px;
+}
+
