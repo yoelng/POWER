@@ -25,4 +25,12 @@ h1,h6{
 label{
     padding: 10px;
 }
-
+#btn{
+    background-color: orangered;
+}
+#form1{
+    background-color: peru;
+}
+#body1{
+    background-color: salmon;
+}
